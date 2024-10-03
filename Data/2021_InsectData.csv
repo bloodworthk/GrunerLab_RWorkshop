@@ -1,0 +1,367 @@
+﻿Year,Block,Grazing_Treatment,Plot,Sample,Order,Family,Genus,Species,Notes,IDer,Date Started,Date Completed
+2021,B1,NG,1,1,Hemiptera,Ligidae,NA,NA,,,,
+2021,B1,NG,1,2,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B1,NG,1,3,Diptera,Muscidae,NA,NA,,,,
+2021,B1,NG,1,4,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B1,NG,1,5,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,1,6,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,1,7,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,1,8,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B1,NG,1,9,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,1,10,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,1,11,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,1,12,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,Super Young,,,
+2021,B1,NG,1,13,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,1,14,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,1,15,Araneae,Salticidae,NA,NA,,,,
+2021,B1,NG,1,16,Araneae,Thomsidae,NA,NA,,,,
+2021,B1,NG,1,17,Araneae,Thomsidae,NA,NA,,,,
+2021,B1,NG,1,18,Araneae,Lycosidae,NA,NA,,,,
+2021,B1,NG,2,1,Orthoptera,Acrididae,Melanoplus,infantilis,,,,
+2021,B1,NG,2,2,Orthoptera,Acrididae,Melanoplus,infantilis,,,,
+2021,B1,NG,2,3,NA,NA,NA,NA,body parts,,,
+2021,B1,NG,2,4,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B1,NG,2,5,Coleoptera,Anobiidae,NA,NA,,,,
+2021,B1,NG,2,6,Hemiptera,Ligidae,NA,NA,,,,
+2021,B1,NG,2,7,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B1,NG,2,8,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B1,NG,2,9,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B1,NG,2,10,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,2,11,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,2,12,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B1,NG,2,13,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B1,NG,2,14,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,3,1,Orthoptera,Acrididae,Melanoplus,infantilis,,,,
+2021,B1,NG,3,2,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B1,NG,3,3,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B1,NG,3,4,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B1,NG,4,1,Diptera,Muscidae,NA,NA,,,,
+2021,B1,NG,4,2,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B1,NG,4,3,Diptera,Agromyzidae,NA,NA,,,,
+2021,B1,NG,4,4,Diptera,Muscidae,NA,NA,,,,
+2021,B1,NG,4,5,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B1,NG,4,6,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B1,NG,4,7,Diptera,Phoridae,NA,NA,,,,
+2021,B1,NG,4,8,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,4,9,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,4,10,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,5,1,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B1,NG,5,2,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B1,NG,5,3,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,5,4,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,NG,5,5,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B1,NG,5,6,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B1,LG,6,1,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B1,LG,6,2,Diptera,Muscidae,NA,NA,,,,
+2021,B1,LG,6,3,Orthoptera,Acrididae,Melanoplus,packardii,,,,
+2021,B1,LG,6,4,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,LG,6,5,Orthoptera,Acrididae,Melanoplus,differentialis,,,,
+2021,B1,LG,6,6,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,LG,7,6,Hemiptera,Cicadellidae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B1,LG,7,1,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B1,LG ,7,7,Hemiptera,Cicadellidae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B1,LG,7,2,Orthoptera,Acrididae,Ageneotettix,deorum,,,,
+2021,B1,LG,7,3,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,LG,7,4,Orthoptera,Acrididae,Melanoplus,bruneri,,,,
+2021,B1,LG,7,5,Orthoptera,Acrididae,Opeia,obscura,very small,,,
+2021,B1,LG ,8,1,Hemiptera,Cicadellidae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B1,LG,8,4,Hemiptera,Pentatomidae,NA,NA,,,,
+2021,B1,LG,8,2b,Orthoptera ,Acridiae,Melanoplus,Sanguinipes,no way to differentiate weights,Tessa Baker,10/29/21,11/19/21
+2021,B1,LG,8,2a,Orthoptera,Acrididae,Melanoplus,gladstoni,no way to differentiate weights,,,
+2021,B1,LG,9,1,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B1,LG,9,2,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B1,LG,9,3,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,LG,9,4,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,LG,9,5,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B1,LG,10,1,Orthoptera,Acridiae,Melanoplus,confuscus,,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,2,Orthoptera,Acridiae,Melanoplus,Sanguinipes,,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,3,Orthoptera,Acridiae,Melanoplus,Gladstoni,,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,4,Orthoptera,Acridiae,Opeia,Obscura ,,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,5,Orthoptera,Acridiae,Opeia,Obscura ,,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,6,Orthoptera,Acridiae,Opeia,Obscura ,,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,7,Orthoptera,Acridiae,Melanoplus,Keeleri,,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,8,Orthoptera,Acridiae,Melanoplus,Sanguinipes,,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,9,Hemiptera,Cicadellidae,NA,NA,Kathryn added in sample numbers,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,10,Hemiptera,Cicadellidae,NA,NA,Kathryn added in sample numbers,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,11,Hymenoptera ,Platygastridae,NA,NA,Kathryn added in sample numbers,Eliza Glass,11/19/21,11/19/21
+2021,B1,LG,10,NA,NA,NA,NA,NA,insect pieces and eggs,Eliza Glass,11/19/21,11/19/21
+2021,B1,HG,11,1,Coleoptera,Curculionidae,NA,NA,,,,
+2021,B1,HG,11,2,Araneae,Thomisidae,NA,NA,,,,
+2021,B1,HG,11,3,Orthoptera,Acrididae,Melanoplus,differentialis,,,,
+2021,B1,HG,11,4,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B1,HG,11,5,Orthoptera,Acrididae,Melanoplus,Sanguinipes,1/2 OF BODY IS MISSING,,,
+2021,B1,HG,11,6,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B1,HG,12,1,Orthoptera,Acrididae,Melanoplus,packardii,,,,
+2021,B1,HG,12,2,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B1,HG,12,3,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B1,HG,12,4,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B1,HG,12,5,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,HG,12,6,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B1,HG,13,1,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B1,HG,13,2,NA,NA,NA,NA,Body Parts,,,
+2021,B1,HG,13,3,Orthoptera,Acrididae,Melanoplus,differntialis,,,,
+2021,B1,HG,13,4,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B1,HG,14,1,Hemiptera,Cicadellidae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B1,HG,14,2,Hemiptera,Pentatomidae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B1,HG,14,3,Araneae,Thomisidae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B1,HG,14,4,Araneae,Thomisidae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B1,HG,14,5,Hymenoptera ,Formicide,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B1,HG,14,6,Hymenoptera ,Formicide,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B1,HG,14,7,Orthoptera,Acridiae,Melanoplus,Bruneri,,Tessa Baker,10/29/21,11/19/21
+2021,B1,HG,14,8,Orthoptera,NA,NA,NA,unknown - too squished,Tessa Baker,10/29/21,11/19/21
+2021,B1,HG,15,1,Hymenoptera ,Platygastridae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B1,HG,15,2,Hymenoptera ,Platygastridae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B1,HG,15,3,Araneae ,thomisidae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B1,HG,15,4,Orthoptera,Acridiae,Melanoplus,Sanguinipes,,Kathryn White,10/29/21,11/19/21
+2021,B1,HG,15,5,Orthoptera,Acridiae,Melanoplus,bruneri,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,16,1,Orthoptera,Acridiae,Melanoplus,confuscus,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,16,2,Orthoptera,Acridiae,Melanoplus,Sanguinipes,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,16,3,Orthoptera,Acridiae,Melanoplus,Gladstoni,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,16,4,Orthoptera,Acridiae,Melanoplus,Gladstoni,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,16,5,Orthoptera,Acridiae,Melanoplus,Gladstoni,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,16,6,Orthoptera,Acridiae,Melanoplus,Infantilis,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,16,7,Orthoptera,Acridiae,Melanoplus,flaridus,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,16,8,Hemiptera,Cicadellidae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,16,9,Hemiptera,Cicadellidae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,16,10,Hemiptera,Geocoridae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,16,11,Orthoptera,Acridiae,Melanoplus,bruneri,,Tessa Baker,10/29/21,11/19/21
+2021,B2,NG,17,1,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B2,NG,17,2,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B2,NG,17,3,Diptera,Muscidae,NA,NA,,,,
+2021,B2,NG,17,4,Diptera,Muscidae,NA,NA,,,,
+2021,B2,NG,17,5,Araneae,Thomsidae,NA,NA,,,,
+2021,B2,NG,17,6,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B2,NG,17,7,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,17,8,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B2,NG,17,9,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B2,NG,17,10,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B2,NG,17,11,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,17,12,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,17,13,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B2,NG,17,14,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B2,NG,17,15,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B2,NG,17,16,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,17,17,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B2,NG,17,18,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,17,19,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,17,20,Diptera,Agromyzidae,NA,NA,,,,
+2021,B2,NG,18,1,Hemiptera,Cicadellidae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,2,Coleoptera,Scarabaeidae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,3,Hemiptera,Lygaeidae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,4,Orthoptera ,Acridiae,Melanoplus,Sanguinipes,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,5,Orthoptera ,Acridiae,Arphia,Pseudonietena,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,6,Orthoptera ,Acridiae,Melanoplus,Sanguinipes,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,7,Orthoptera ,Acridiae,Melanoplus,Sanguinipes,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,8,Orthoptera ,Acridiae,Melanoplus,Sanguinipes,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,9,Orthoptera ,Acridiae,Melanoplus,Sanguinipes,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,10,Orthoptera ,Acridiae,Melanoplus,Sanguinipes,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,11,Araneae,thomisidae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,12,Araneae,thomisidae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,13,Araneae,thomisidae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,18,14,Coleoptera,Anobiidae,NA,NA,*,Kathryn White,10/29/21,11/19/21
+2021,B2,NG,19,1,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B2,NG,19,2,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B2,NG,19,3,Diptera,Agromyzidae,NA,NA,,,,
+2021,B2,NG,19,4,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,19,5,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B2,NG,19,6,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B2,NG,19,7,Orthoptera,Acrididae,Melanoplus,Keeleri,,,,
+2021,B2,NG,19,8,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,19,9,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,19,10,Orthoptera,Acrididae,Melanoplus,Keeleri,,,,
+2021,B2,NG,19,11,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B2,NG,19,12,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,19,13,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,19,14,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,NG,20,1,Orthoptera,Acridiae,Melanoplus,Gladstoni,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,2,Orthoptera,Acridiae,Melanoplus,Gladstoni,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,3,Orthoptera,Acridiae,Melanoplus,Sanguinipes,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,4,Orthoptera,Acridiae,Phoetaliotes,Nebrascensis,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,5,Orthoptera,Acridiae,Melanoplus,Sanguinipes,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,6,Orthoptera,Acridiae,Melanoplus,Sanguinipes,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,7,Orthoptera,Acridiae,Melanoplus,Sanguinipes,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,8,Orthoptera,Acridiae,Melanoplus,Gladstoni,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,9,Orthoptera,Acridiae,Melanoplus,Sanguinipes,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,10,Orthoptera,Acridiae,Phoetaliotes,Nebrascensis,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,11,Orthoptera,Acridiae,Phoetaliotes,Nebrascensis,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,12,Orthoptera,Acridiae,Melanoplus,Gladstoni,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,13,Hemiptera,Cicadellidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,14,Hemiptera,Cicadellidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,15,Hemiptera,Cicadellidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,16,Hemiptera,Cicadellidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,17,Hemiptera,Ligidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,18,Hemiptera,Ligidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,19,Coleoptera,Chrysomelidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,20,Coleoptera,Chrysomelidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,21,Araneae,Thomisidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,22,Hymenoptera ,Platygastridae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,23,Coleoptera,Chrysomelidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,24,Hymenoptera ,Platygastridae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,25,Diptera,Muscidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,26,Diptera,Muscidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,NG,20,27,Diptera,Muscidae,NA,NA,,Eliza Glass,11/5/21,11/12/21
+2021,B2,LG,21,2,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B2,LG,21,3,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B2,LG,21,4,Coleoptera,Anobiidae,NA,NA,,,,
+2021,B2,LG,21,5,Orthoptera,Acrididae,Arphia,pseudonietana,,,,
+2021,B2,LG,21,6,Orthoptera,Acrididae,Arphia,pseudonietana,,,,
+2021,B2,LG,21,7,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B2,LG,22,1,Orthoptera,Acridiae,Melanoplus,bruneri,,Tessa Baker,10/29/21,11/19/21
+2021,B2,LG,22,2,Orthoptera,Acridiae,Melanoplus,bruneri,,Tessa Baker,10/29/21,11/19/21
+2021,B2,LG,22,3,Orthoptera,Acridiae,Melanoplus,Infantilis,,Tessa Baker,10/29/21,11/19/21
+2021,B2,LG,22,4,Orthoptera,Acridiae,Phoetaliotes,Nebrascensis,,Tessa Baker,10/29/21,11/19/21
+2021,B2,LG,22,5,Hemiptera,Pentatomidae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B2,LG,22,6,Araneae,Thomisidae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B2,LG,22,7,Hemiptera,Geocoridae,NA,NA,,Tessa Baker,10/29/21,11/19/21
+2021,B2,LG,23,1,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B2,LG,23,2,Araneae,Salticidae,NA,NA,,,,
+2021,B2,LG,23,3,Araneae,Salticidae,NA,NA,,,,
+2021,B2,LG,23,4,Araneae,Salticidae,NA,NA,,,,
+2021,B2,LG,23,5,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B2,LG,23,6,Coleoptera,Anobiidae,NA,NA,,,,
+2021,B2,LG,23,7,Diptera,Agromyzidae,NA,NA,,,,
+2021,B2,LG,23,8,Diptera,Agromyzidae,NA,NA,,,,
+2021,B2,LG,23,9,Diptera,Tephritidae,NA,NA,,,,
+2021,B2,LG,23,10,Orthoptera,Acrididae,Melanoplus,bruneri,,,,
+2021,B2,LG,23,12,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B2,LG,23,13,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B2,LG,24,1,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B2,LG,24,2,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B2,LG,24,3,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B2,LG,24,4,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B2,LG,24,5,Hemiptera,Ligidae,NA,NA,,,,
+2021,B2,LG,24,6,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B2,LG,24,7,Araneae,Lycosidae,NA,NA,,,,
+2021,B2,LG,25,1,Orthoptera,Acrididae,Arphia,pseudonietana,,,,
+2021,B2,LG,25,2,Araneae,Thomisidae,NA,NA,,,,
+2021,B2,LG,25,3,Araneae,Salticidae,NA,NA,,,,
+2021,B2,LG,25,4,Araneae,Salticidae,NA,NA,,,,
+2021,B2,LG,25,5,NA,NA,NA,NA,,,,
+2021,B2,LG,25,6,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B2,LG,25,7,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B2,LG,25,8,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B2,LG,25,9,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B2,LG,25,10,Coleoptera,Latridiidae,NA,NA,,,,
+2021,B2,LG,25,11,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B2,HG,26,1,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B2,HG,26,2,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B2,HG,26,3,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B2,HG,27,1,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B2,HG,27,2,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B2,HG,27,3,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B2,HG,27,4,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B2,HG,27,5,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B2,HG,27,6,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B2,HG,27,7,Hemiptera,Lygaeidae,NA,NA,,,,
+2021,B2,HG,27,8,Hemiptera,Pentatomidae,NA,NA,,,,
+2021,B2,HG,27,9,Coleoptera,Anobiidae,NA,NA,,,,
+2021,B2,HG,27,10,Hemiptera,Ligidae,NA,NA,,,,
+2021,B2,HG,27,12,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B2,HG,27,13,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B2,HG,27,14,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B2,HG,28,1,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B2,HG,28,2,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B2,HG,28,4,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B2,HG,29,1,Orthoptera ,Acridiae,Melanoplus,Sanguinipes,,Kathryn White,10/29/21,11/19/21
+2021,B2,HG,29,2,Orthoptera ,Acridiae,Ageneotettix,deorum,,Kathryn White,10/29/21,11/19/21
+2021,B2,HG,29,3,Hemiptera,Geocoridae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B2,HG,29,4,Coleoptera,curculionidae,NA,NA,no head,Kathryn White,10/29/21,11/19/21
+2021,B2,HG,29,5,Diptera,Agramyzidae,NA,NA,,Kathryn White,10/29/21,11/19/21
+2021,B2,HG,30,1,NA,NA,NA,NA,,,,
+2021,B2,HG,30,2,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B2,HG,30,3,Orthoptera,Acrididae,Arphia,pseudonietana,,,,
+2021,B2,HG,30,4,Orthoptera,Acrididae,Arphia,pseudonietana,,,,
+2021,B3,NG,31,1,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B3,NG,31,2,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,NG,31,3,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B3,NG,31,4,Araneae,Thomsidae,NA,NA,,,,
+2021,B3,NG,32,1,NA,NA,NA,NA,,,,
+2021,B3,NG,32,2,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B3,NG,32,3,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B3,NG,32,4,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,NG,32,5,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,NG,32,6,Diptera,Agromyzidae,NA,NA,,,,
+2021,B3,NG,32,7,Coleoptera,Anobiidae,NA,NA,,,,
+2021,B3,NG,32,8,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B3,NG,33,1,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,NG,33,2,Orthoptera,Acrididae,Phoetaliotes,nebrascensis,,,,
+2021,B3,NG,33,3,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,NG,33,4,Araneae,Thomsidae,NA,NA,,,,
+2021,B3,NG,34,1,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,NG,34,2,Araneae,Thomsidae,NA,NA,,,,
+2021,B3,NG,34,3,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,NG,34,4,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,NG,34,5,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,NG,34,6,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,NG,34,7,Orthoptera,Acrididae,Phoetaliotes,Nebrascensis,,,,
+2021,B3,NG,34,8,Orthoptera,Acrididae,Erittix,Simplex,,,,
+2021,B3,NG,34,9,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B3,NG,35,1,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,NG,35,2,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B3,LG,36,1,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,LG,36,2,Hemiptera,Cicadellidae,NA,NA,,,,
+2021,B3,LG,36,3,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,LG,36,4,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,LG,36,5,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,LG,36,6,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,LG,36,7,Hemiptera,Scuttelleridae,NA,NA,,,,
+2021,B3,LG,36,8,Orthoptera,Acrididae,Melanoplus,Gladstoni,,,,
+2021,B3,LG,37,1,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B3,LG,37,2,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B3,LG,37,3,Hemiptera,Ligidae,NA,NA,,,,
+2021,B3,LG,37,4,Orthoptera,Acrididae,Erittix,Simplex,,,,
+2021,B3,LG,37,5,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,LG,37,6,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,LG,37,7,Coleoptera,Anobiidae,NA,NA,,,,
+2021,B3,LG,38,1,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,LG,38,2,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B3,LG,38,3,Orthoptera,Acrididae,Melanoplus,packardii,,,,
+2021,B3,LG,38,4,Coleoptera,Staphylinidae,NA,NA,,,,
+2021,B3,LG,38,5,NA,NA,NA,NA,,,,
+2021,B3,LG,39,1,NA,NA,NA,NA,,,,
+2021,B3,LG,39,2,Orthoptera,Acrididae,Arphia,pseudonietana,,,,
+2021,B3,LG,39,3,Orthoptera,Acrididae,Arphia,pseudonietana,,,,
+2021,B3,LG,39,4,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B3,LG,40,1,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,LG,40,2,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,LG,40,3,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,LG,40,4,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,LG,40,5,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,LG,40,6,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,LG,40,7,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,LG,40,8,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,LG,40,9,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B3,LG,40,10,Orthoptera,Acrididae,Melanoplus,gladstoni,,,,
+2021,B3,LG,40,11,Orthoptera,Acrididae,Arphia,pseudonietana,,,,
+2021,B3,LG,40,12,Orthoptera,Acrididae,Melanoplus,sanguinipes,,,,
+2021,B3,LG,40,13,Araneae,Salticidae,NA,NA,,,,
+2021,B3,LG,40,14,Araneae,Thomisidae,NA,NA,,,,
+2021,B3,HG,41,1,Coleoptera,Chrysomelidae,NA,NA,,,,
+2021,B3,HG,41,2,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,HG,41,3,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,HG,41,5,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,HG,41,6,Araneae,Thomsidae,NA,NA,,,,
+2021,B3,HG,41,7,Hemiptera,Ligidae,NA,NA,,,,
+2021,B3,HG,42,1,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,HG,42,2,Coleoptera,Anobiidae,NA,NA,,,,
+2021,B3,HG,42,3,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B3,HG,42,4,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B3,HG,42,5,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B3,HG,42,6,Coleoptera,Anobiidae,NA,NA,,,,
+2021,B3,HG,42,7,Araneae,Thomsidae,NA,NA,,,,
+2021,B3,HG,42,8,Hymenoptera,Formicidae,NA,NA,,,,
+2021,B3,HG,43,1,Coleoptera ,Curculionidae,NA,NA,,,,
+2021,B3,HG,43,2,Hymenoptera,Platygastridae,NA,NA,,,,
+2021,B3,HG,43,3,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B3,HG,43,4,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,HG,43,5,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,HG,44,1,Hemiptera,Scuttelleridae,NA,NA,,,,
+2021,B3,HG,44,2,Orthoptera,Acrididae,Arphia,Pseudonietara,,,,
+2021,B3,HG,44,4,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,HG,45,1,Orthoptera,Acrididae,Opeia,obscura,,,,
+2021,B3,HG,45,2,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,HG,45,3,Coleoptera,Staphylinidae,NA,NA,,,,
+2021,B3,HG,45,4,Araneae,Thomsidae,NA,NA,,,,
+2021,B3,HG,45,5,Orthoptera,Acrididae,Melanoplus,Sanguinipes,,,,
+2021,B3,HG,45,6,Orthoptera,Acrididae,Dissosteira,longipennis,,,,
+2021,B3,HG,45,8,Orthoptera,Acrididae,Arphia,pseudonietana,,,,
