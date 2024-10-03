@@ -190,7 +190,7 @@ Diversity_Year_Reg<-aov(Shannon ~ Grazing_Treatment* as.factor(Year),
 summary(Diversity_Year_Reg)
 TukeyHSD(Diversity_Year_Reg) #this allows us to look at the pairwise comparisons of each treatment but make sure to only look at differences for variables that were significant in aov
 
-#Run a linear regression with Block as a random effect
+a#Run a linear regression with Block as a random effect
 Diversity_Year_Reg2<-lmer(Shannon ~ Grazing_Treatment* as.factor(Year) + (1|Block),
                          data = CommunityMetrics) 
 anova(Diversity_Year_Reg2) 
