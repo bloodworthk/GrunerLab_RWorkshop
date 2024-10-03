@@ -35,7 +35,7 @@ ID_Data<-read.csv(here("Output","Arthropod_ID_Data_AllYears.csv")) #here() tells
 
 ###### Absolute and Relative Abundance by Family ####
 #Goal: calculate absolute and total abundance
-Abundance<-ID_Data %>% 
+Abundance <- ID_Data %>% 
   group_by(Year,Grazing_Treatment,Block,Plot) %>% #tells R that whatever command comes after this should occur within these groups 
   mutate(Plot_Abundance=length(Sample)) %>% #calculate total abundance of all arthropods in a given plot
   ungroup() %>% #ungroup data (if you don't do this is could mess up later code)
@@ -52,7 +52,7 @@ head(Abundance)
 
 Shannon_Diversity <- community_diversity(df = Abundance,
                                         time.var = "Year",
-                                        replicate.var = c("Grazing_Treatment","Block","Plot"),
+                                        replicate.var = c("Block","Grazing_Treatment","Plot"),
                                         abundance.var = "Relative_Abundance") #codyn package has community_diversity 
 
 
@@ -75,21 +75,34 @@ Shannon_Assumptions <- lm(Shannon ~ Grazing_Treatment,
 ols_plot_resid_hist(Shannon_Assumptions) 
 ols_test_normality(Shannon_Assumptions) #normal (not all 4 show normality but 3/4 do so it's typically considered "good enough" for ecological data)
 #check for homoscedasticity 
-leveneTest(data = CommunityMetrics,Shannon ~ Grazing_Treatment) #Pvalue is not significant and therefore the assumption of homoscedasticity is met
+leveneTest(data = CommunityMetrics,Shannon ~ Grazing_Treatment) #P value is not significant and therefore the assumption of homoscedasticity is met
 
 #Richness
-Richness_Assumptions <- lm(sqrt(richness) ~ Grazing_Treatment,
-                          data = CommunityMetrics)
+Richness_Assumptions <- lm(richness ~ Grazing_Treatment,
+                           data = CommunityMetrics)
 ols_plot_resid_hist(Richness_Assumptions) 
-ols_test_normality(Richness_Assumptions) #not normal so we add do the sqrt of richness to normalize data (still not perfect but "good enough" for ecological data) 
+ols_test_normality(Richness_Assumptions) #not normal so we need to transform the data
+#check for homoscedasticity 
+leveneTest(data = CommunityMetrics,richness ~ Grazing_Treatment) #Pvalue is not significant and therefore the assumption of homoscedasticity is met
+
+Richness_Assumptions_Trans <- lm(sqrt(richness) ~ Grazing_Treatment,
+                          data = CommunityMetrics)
+ols_plot_resid_hist(Richness_Assumptions_Trans) 
+ols_test_normality(Richness_Assumptions_Trans) #not normal so we add do the sqrt of richness to normalize data (still not perfect but "good enough" for ecological data) 
 #check for homoscedasticity 
 leveneTest(data = CommunityMetrics,sqrt(richness) ~ Grazing_Treatment) #Pvalue is not significant and therefore the assumption of homoscedasticity is met
 
 #Evenness
-Evar_Assumptions <- lm(exp(Evar) ~ Grazing_Treatment,
-                          data = CommunityMetrics)
+Evar_Assumptions <- lm(Evar ~ Grazing_Treatment,
+                       data = CommunityMetrics)
 ols_plot_resid_hist(Evar_Assumptions) 
-ols_test_normality(Evar_Assumptions) #not normal so we add do the exp of evar to normalize data
+ols_test_normality(Evar_Assumptions) #not normal so we need to transform the data
+leveneTest(data = CommunityMetrics,Evar ~ Grazing_Treatment) #Pvalue is not significant and therefore the assumption of homoscedasticity is met
+
+Evar_Assumptions_Trans <- lm(exp(Evar) ~ Grazing_Treatment,
+                          data = CommunityMetrics)
+ols_plot_resid_hist(Evar_Assumptions_Trans) 
+ols_test_normality(Evar_Assumptions_Trans) #not normal so we add do the exp of evar to normalize data
 #check for homoscedasticity 
 leveneTest(data = CommunityMetrics,exp(Evar) ~ Grazing_Treatment) #Pvalue is not significant and therefore the assumption of homoscedasticity is met
 
@@ -178,7 +191,7 @@ anova(Diversity_Year_Reg2)
 summary(Diversity_Year_Reg2)
 
 ## Now let's compare these three models and choose which one fits our data the best
-AIC(Diversity_Year_Reg,Diversity_Year_Reg2) #the anova is a better model than the lmer with a random effect. Not surprising given that block does not account for any variation in our model. 
+AIC(Diversity_Year_Reg,Diversity_Year_Reg2) #the anova is a better model than the lmer with a random effect 
 
 
 ###### Richness ####
@@ -205,7 +218,7 @@ summary(Evar_Year_Reg) #year is significant
 
 
 #Run a linear regression with Block as a random effect
-Evar_Year_Reg2<-lmer(sqrt(Evar) ~ Grazing_Treatment * Year + (1|Block),
+Evar_Year_Reg2<-lmer(exp(Evar) ~ Grazing_Treatment * Year + (1|Block),
                          data = CommunityMetrics) 
 anova(Evar_Year_Reg2) 
 summary(Evar_Year_Reg2)
