@@ -188,6 +188,7 @@ AIC(Evar_ANOVA,Evar_Reg,Evar_Reg2) #here our second LMER is a better model fit
 Diversity_Year_Reg<-aov(Shannon ~ Grazing_Treatment* as.factor(Year),
                     data = CommunityMetrics) 
 summary(Diversity_Year_Reg)
+TukeyHSD(Diversity_Year_Reg) #this allows us to look at the pairwise comparisons of each treatment but make sure to only look at differences for variables that were significant in aov
 
 #Run a linear regression with Block as a random effect
 Diversity_Year_Reg2<-lmer(Shannon ~ Grazing_Treatment* as.factor(Year) + (1|Block),
@@ -203,7 +204,8 @@ AIC(Diversity_Year_Reg,Diversity_Year_Reg2) #the anova is a better model than th
 #Run an anova
 Richness_Year_Reg<-aov(sqrt(richness) ~ Grazing_Treatment * as.factor(Year),
                         data = CommunityMetrics)  #this has us looking
-summary(Richness_Year_Reg) #year is significant
+summary(Richness_Year_Reg)
+TukeyHSD(Richness_Year_Reg) #this allows us to look at the pairwise comparisons of each treatment but make sure to only look at differences for variables that were significant in aov
 
 
 #Run a linear regression with Block as a random effect
@@ -219,7 +221,8 @@ AIC(Richness_Year_Reg,Richness_Year_Reg2) #the anova is a better model than the 
 #Run an anova
 Evar_Year_Reg<-aov(exp(Evar) ~ Grazing_Treatment * as.factor(Year),
                        data = CommunityMetrics)  #this has us looking
-summary(Evar_Year_Reg) #year is significant
+summary(Evar_Year_Reg) 
+TukeyHSD(Evar_Year_Reg) #this allows us to look at the pairwise comparisons of each treatment but make sure to only look at differences for variables that were significant in aov
 
 
 #Run a linear regression with Block as a random effect
