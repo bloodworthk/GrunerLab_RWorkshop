@@ -1,5 +1,5 @@
 #### Code Information ####
-#Code Goal: Workshop for Gruner Lab on Oct 4, 2024 that displays a wide range of coding skills, show data analysis tools and uses, and visualize data. In this script we will calculate community metrics and ...
+#Code Goal: Workshop for Gruner Lab on Oct 4, 2024 that displays a wide range of coding skills, show data analysis tools and uses, and visualize data. In this script we will calculate community metrics, test the assumptions of parametric models, and answer two questions using multiple statistical tests
 #Author: KJB
 
 #### Load Libraries ####
@@ -66,6 +66,11 @@ Evar_Richness <- community_structure(df = Abundance,
 #join the datasets
 CommunityMetrics <- Shannon_Diversity %>%
   full_join(Evar_Richness) 
+
+summary(CommunityMetrics)
+
+# Save Community Metrics for use in creating graphs
+#write.csv(CommunityMetrics ,here("Output","Arthropod_CommunityMetrics.csv"))
 
 
 #### Check that data meet the assumptions of parametric models ####
@@ -180,12 +185,12 @@ AIC(Evar_ANOVA,Evar_Reg,Evar_Reg2) #here our second LMER is a better model fit
 
 ###### Shannon's Diversity ####
 #Run an anova
-Diversity_Year_Reg<-aov(Shannon ~ Grazing_Treatment*Year,
+Diversity_Year_Reg<-aov(Shannon ~ Grazing_Treatment* as.factor(Year),
                     data = CommunityMetrics) 
 summary(Diversity_Year_Reg)
 
 #Run a linear regression with Block as a random effect
-Diversity_Year_Reg2<-lmer(Shannon ~ Grazing_Treatment*Year + (1|Block),
+Diversity_Year_Reg2<-lmer(Shannon ~ Grazing_Treatment* as.factor(Year) + (1|Block),
                          data = CommunityMetrics) 
 anova(Diversity_Year_Reg2) 
 summary(Diversity_Year_Reg2)
@@ -196,13 +201,13 @@ AIC(Diversity_Year_Reg,Diversity_Year_Reg2) #the anova is a better model than th
 
 ###### Richness ####
 #Run an anova
-Richness_Year_Reg<-aov(sqrt(richness) ~ Grazing_Treatment * Year,
+Richness_Year_Reg<-aov(sqrt(richness) ~ Grazing_Treatment * as.factor(Year),
                         data = CommunityMetrics)  #this has us looking
 summary(Richness_Year_Reg) #year is significant
 
 
 #Run a linear regression with Block as a random effect
-Richness_Year_Reg2<-lmer(sqrt(richness) ~ Grazing_Treatment * Year + (1|Block),
+Richness_Year_Reg2<-lmer(sqrt(richness) ~ Grazing_Treatment * as.factor(Year) + (1|Block),
                           data = CommunityMetrics) 
 anova(Richness_Year_Reg2) 
 summary(Richness_Year_Reg2)
@@ -212,13 +217,13 @@ AIC(Richness_Year_Reg,Richness_Year_Reg2) #the anova is a better model than the 
 
 ###### Evar ####
 #Run an anova
-Evar_Year_Reg<-aov(exp(Evar) ~ Grazing_Treatment * Year,
+Evar_Year_Reg<-aov(exp(Evar) ~ Grazing_Treatment * as.factor(Year),
                        data = CommunityMetrics)  #this has us looking
 summary(Evar_Year_Reg) #year is significant
 
 
 #Run a linear regression with Block as a random effect
-Evar_Year_Reg2<-lmer(exp(Evar) ~ Grazing_Treatment * Year + (1|Block),
+Evar_Year_Reg2<-lmer(exp(Evar) ~ Grazing_Treatment * as.factor(Year) + (1|Block),
                          data = CommunityMetrics) 
 anova(Evar_Year_Reg2) 
 summary(Evar_Year_Reg2)
